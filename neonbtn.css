@@ -10,7 +10,7 @@ body{
     background: #000;
     min-height: 100vh;
 }
-.first{
+a{
     position: relative;
     color: #fff;
     text-decoration: none;
@@ -18,21 +18,8 @@ body{
     margin: 180px;
     padding: 15px 30px;
 }
-.first:hover{
+a:hover{
     color: #fff;
     background-color:  #4666FF;
     box-shadow: 0 0 50px  #4666FF;
-}
-.two{
-    position: relative;
-    color: #fff;
-    text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 120px;
-    padding: 15px 30px;
-}
-.two:hover{
-    color: #fff;
-    background-color:  #00FF00;
-    box-shadow: 0 0 50px  #00FF00;
 }
